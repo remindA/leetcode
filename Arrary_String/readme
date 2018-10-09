@@ -1,0 +1,31 @@
+网站的大纲
+    - 数组简介
+        1. 数组的中心索引 pivotIndex()
+        2. 至少是其他数字两倍大的最大数 domainIndex()
+        3. 加一
+    - 二维数组简介
+        1. 对角线遍历 findDiagonalOrder()
+        2. 螺旋矩阵 spiralOrder()
+        3. 杨辉三角 YangHuiTriangle()
+    - 字符串简介
+    - 双指针技巧
+    - 小结
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
